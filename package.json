@@ -13,9 +13,5 @@
         "btc",
         "wallets"
     ],
-    "author": "Michal2SAB",
-    "license": "ISC",
-    "dependencies": {
-        "coinkey": "^3.0.0"
     }
 }
